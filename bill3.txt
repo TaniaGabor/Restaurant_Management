@@ -1,0 +1,4 @@
+OrderId  3
+TableNo 3
+Data  12.03.2020
+Total Price  40.0
